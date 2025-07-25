@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Francesco Lindiner
 
-- 🛡️ 24 y/o Italian Software Developer, Cybersecurity Enthusiast & CTF Player  
+- 🛡️ 24 y/o Italian Software Developer, Cybersecurity Enthusiast
 - 🐍 Passionate about Binary Exploitation, Python Scripting & Sandbox Escape  
 - 🔎 Always breaking stuff (ethically) to understand how it works  
 
