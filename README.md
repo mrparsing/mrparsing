@@ -7,6 +7,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrparsing&theme=tokyonight&show_icons=true&hide_title=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrparsing&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrparsing&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrparsing&theme=onedark)
 
 ---
 
