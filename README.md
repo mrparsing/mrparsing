@@ -6,10 +6,10 @@
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=mrparsing&theme=tokyonight&show_icons=true&hide_title=true">
-  <img width="385px" src="https://github-profile-trophy.vercel.app/?username=mrparsing&theme=onedark" />
-  <img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrparsing&layout=donut">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrparsing&theme=onedark" />
+  <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrparsing&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrparsing&layout=donut" />
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrparsing&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
