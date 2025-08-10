@@ -5,7 +5,7 @@
 - 🔎 Always breaking stuff (ethically) to understand how it works  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrparsing&theme=dark&show_icons=true&hide_title=true)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrparsing&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 🧠 Technologies & Languages I work with
